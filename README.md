@@ -11,7 +11,7 @@ Requirements:
 1. Clone the repo
 
 ```bash
-git clone (https://github.com/dostontech/KYC-as-a-ServiceAPI)
+git clone [https://github.com/dostontech/KYC-as-a-ServiceAPI]
 cd kyc-as-a-serviceapi
 ```
 
